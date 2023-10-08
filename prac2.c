@@ -1,6 +1,8 @@
+//TO PERFORM MULTIPLICATION OPERATION ON MATRIX
 #include <stdio.h>
 
 int main() { 
+  printf("\033[1;31mThis program is made by MOHITSA\033[0m\n");
   int r1,r2,c1,c2;
   int matA[r1][c1], matB[r2][c2], matR[r1][c2];
   int i,j,k;
