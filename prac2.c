@@ -65,7 +65,7 @@ int main()
     {
       printf("%d\t", matR[i][j]);
     }
-    printf("\n");
+    printf("Thanks for visiting!!!!\n");
   }
 
   return 0;
